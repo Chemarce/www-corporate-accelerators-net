@@ -1,5 +1,5 @@
 [
-   {
+   {      
       "Company":"AIA",
       "Name":"AIA Accelerator",
       "Index":"No",
@@ -30,6 +30,38 @@
       "Comment":"",
       "Created": "2015-06-17 09:00:00",
       "Modified": "2015-06-17 09:00:00"
+   },
+   {
+      "Company":"Grupo Bursatil Aldesa ",
+      "Name":"Aldesa Fintech Accelerator",
+      "Index":"No",
+      "NAICS":"Finance",
+      "NAICS Code":5241,
+      "NAICS Sector":52,
+      "Sector description":"Finance and Insurance",
+      "Self-description":"Accelerator",
+      "Term":"10 months",
+      "Cohort-based":"Yes, regularly?",
+      "Funding":"yes",
+      "Equity":"yes",
+      "Education":"Yes, mentors",
+      "Office space":"Yes",
+      "Pitch day":"Yes",
+      "Cohort info":"Company names of 1 cohort[s]",
+      "CVC data available":"Limited",
+      "Goal":"We are seeking for ambitious startup companies from Latam with a Fintech proposition",
+      "Areas of Interest":"We are seeking for ambitious startup companies from Latam with a Fintech proposition. If you are passionate about improving the lives of people through fintech technolgies and believe you can bring in a new era of fintech  innovation, we want to hear from you!" 
+      "Partner":"Invert Up",
+      "Company HQ":"Costa Rica",
+      "Accelerator locations":"Costa Rica",
+      "Started":2017,
+      "Status":"Active",
+      "Last class":"",
+      "URL":"http://invertup.com/#",
+      "Sources":[],
+      "Comment":"",
+      "Created": "2017-10-13 09:00:00",
+      "Modified": "2017-10-13 09:00:00"
    },
    {
       "Company":"Airbus Group SE",
